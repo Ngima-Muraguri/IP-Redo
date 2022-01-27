@@ -242,3 +242,15 @@ span{
     
     
 }
+article{
+    display: flex;
+    margin-top: 8%;
+    margin-left: 5%;
+    padding-bottom: 3%;
+}
+.logo1{
+    flex: 1;
+}
+.stamp{
+    flex: 1;
+}
