@@ -87,7 +87,7 @@ padding-left: 40%;
     padding-left: 40%;
 }
 .box1{
-    border: solid maroon;
+    border: solid grey;
 padding-bottom: 2%;
 margin: 4%;
 border-radius: 10%;
@@ -95,15 +95,15 @@ border-radius: 10%;
 }
 .box1 >h1{
     text-align: center;
-    color: maroon;
+    color: rgb(139, 31, 31);
 }
 .box2{
-    border: solid maroon;
+    border: solid rgb(94, 23, 23);
     border-radius: 10%;
 }
 .box2 >h1{
     text-align: center;
-    color: maroon;
+    color: rgb(122, 35, 35);
 }
 .box1 >p{
     text-align: center; 
@@ -155,7 +155,7 @@ span{
 .ic{
     margin-left: 40%;
     width: 10%;
-    color: gray;
+    color: grey;
     border-radius: 10%;
     margin-top: 10%;
     background-color: rgb(240, 247, 240);
