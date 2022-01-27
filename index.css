@@ -114,3 +114,74 @@ border-radius: 10%;
 span{
     color: #F6B400;
 } 
+.main{
+    margin-top: 8%;
+}
+.main >h1{
+    text-align: center;
+   padding-bottom: 3%;
+}
+
+.menu{
+    display: flex;
+    justify-content: center;
+}
+.burger1{
+    border: solid gray;
+    margin: 20px;
+    border-radius: 20px;
+    padding-top: 20px;
+}
+.burger1 >h2{
+    text-align: center;
+    color: maroon;
+
+}
+.image{
+    margin-left: 30%;
+}
+.burger1 >p{
+    text-align: center;
+}
+.icon{
+    display: flex;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}  
+.icon >h3{
+    padding-left: 30px;
+    margin-top: 10%;
+}
+.ic{
+    margin-left: 40%;
+    width: 10%;
+    color: gray;
+    border-radius: 10%;
+    margin-top: 10%;
+    background-color: rgb(240, 247, 240);
+}
+.icon2 >h3{
+    padding-left: 30px;
+    margin-top: 10%;
+}
+.icon2{
+    display: flex;
+    padding-top: 30px;
+    padding-bottom: 30px;  
+}
+.ic2{
+    margin-top: 10%; 
+    width: 10%;
+    color: gray;
+    margin-left: 40%;
+    border-radius: 10%;
+    background-color: rgb(240, 247, 240);
+}
+.ic3{
+    margin-left: 40%;
+    margin-top: 10%; 
+    width: 20%;
+    border-radius: 10%;
+    background-color: rgb(240, 247, 240);
+
+}
