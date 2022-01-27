@@ -184,3 +184,33 @@ span{
     border-radius: 10%;
     background-color: rgb(240, 247, 240);
 }
+.ic3{
+    margin-left: 40%;
+    margin-top: 10%; 
+    width: 20%;
+    border-radius: 10%;
+    background-color: rgb(240, 247, 240);
+
+}
+.container{
+    display: flex;
+    justify-content: center;
+}
+.deck{
+    display: flex;
+    background-color: rgb(240, 247, 240);
+    height: 550px;
+   
+    margin-top: 5%;
+}
+.db{
+    margin-left: 20%;
+}
+.pic{
+    margin-left: 30%;
+}
+.db >h4{
+    font-size: 50px;
+    margin-top: 15%;
+    
+}
