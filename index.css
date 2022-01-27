@@ -62,3 +62,55 @@ nav{
    height: 300px;
    margin-left: 55%;
 }
+.wrapper{
+    margin-top: 30%;
+    display: flex;
+    justify-content: center;
+    padding: 40px;
+    background-color: rgb(240, 247, 240);
+
+   
+}
+.bell{
+    color: orange;
+font-size: 100px;
+padding-left: 40%;
+}
+.truck-pickup{
+color: orange;
+font-size: 100px;
+padding-left: 40%;
+}
+.hamburger{
+    color: orange;
+    font-size: 100px;
+    padding-left: 40%;
+}
+.box1{
+    border: solid maroon;
+padding-bottom: 2%;
+margin: 4%;
+border-radius: 10%;
+
+}
+.box1 >h1{
+    text-align: center;
+    color: maroon;
+}
+.box2{
+    border: solid maroon;
+    border-radius: 10%;
+}
+.box2 >h1{
+    text-align: center;
+    color: maroon;
+}
+.box1 >p{
+    text-align: center; 
+}
+.box2 >p{
+    text-align: center;
+}
+span{
+    color: #F6B400;
+} 
