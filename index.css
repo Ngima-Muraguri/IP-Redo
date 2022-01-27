@@ -45,3 +45,20 @@ nav{
 .header_logo h3{
     font-size: 45px;
 }
+.description{
+    float: left;
+    font-size: 30px;
+    margin-right: 6%;
+    margin-left: 5%;
+    padding-top: 200px;
+}
+.description button{
+    margin-top: 50px;
+}
+.description p{
+    margin-top: 50px;
+}
+.img{
+   height: 300px;
+   margin-left: 55%;
+}
