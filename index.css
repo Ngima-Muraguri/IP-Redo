@@ -143,16 +143,16 @@ span{
 .burger1 >p{
     text-align: center;
 }
-.icon{
+.milly{
     display: flex;
     padding-top: 30px;
     padding-bottom: 30px;
 }  
-.icon >h3{
+.milly >h3{
     padding-left: 30px;
     margin-top: 10%;
 }
-.ic{
+.ton{
     margin-left: 40%;
     width: 10%;
     color: grey;
