@@ -242,7 +242,7 @@ span{
     
     
 }
-article{
+.article{
     display: flex;
     margin-top: 8%;
     margin-left: 5%;
@@ -253,4 +253,30 @@ article{
 }
 .stamp{
     flex: 1;
+}
+.log{
+    flex: 1;
+}
+.log >h5{
+    font-size: 20px;
+}
+.back{
+    background-color: orange;
+    padding: 4%;
+}
+footer{
+    display: flex;
+    margin-left: 4%;
+}
+.copy{
+    flex: 1;
+}
+.social{
+    flex: 1;
+}
+.designed{
+    flex: 1;
+}
+.stamp >ul{
+    list-style: none;
 }
