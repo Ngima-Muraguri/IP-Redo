@@ -13,7 +13,6 @@
     height: 100%;
     clip-path: polygon(11% 0, 100% 0%, 100% 100%, 0% 100%);
     background-color: #F6B400;right: 0;
- 
 }
 .new_feature{
     position: relative;
@@ -68,8 +67,6 @@ nav{
     justify-content: center;
     padding: 40px;
     background-color: rgb(240, 247, 240);
-
-   
 }
 .bell{
     color: orange;
