@@ -62,7 +62,7 @@ nav{
    height: 300px;
    margin-left: 55%;
 }
-.wrapper{
+.chic{
     margin-top: 30%;
     display: flex;
     justify-content: center;
@@ -160,16 +160,16 @@ span{
     margin-top: 10%;
     background-color: rgb(240, 247, 240);
 }
-.icon2 >h3{
+.place>h3{
     padding-left: 30px;
     margin-top: 10%;
 }
-.icon2{
+.place{
     display: flex;
     padding-top: 30px;
     padding-bottom: 30px;  
 }
-.ic2{
+.bag{
     margin-top: 10%; 
     width: 10%;
     color: gray;
