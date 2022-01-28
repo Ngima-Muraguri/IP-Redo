@@ -16,6 +16,8 @@ a laptop
 * Html- which was used to build the structure of the pages.
 
 * CSS - which was used to style the pages 
+#support and contact details
+you can contact me on milcah.muraguri@student.moringaschool.com
 
 ## Licence
 
